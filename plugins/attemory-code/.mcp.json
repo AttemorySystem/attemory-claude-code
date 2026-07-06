@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "attemory-code": {
+      "command": "attemory-mcp",
+      "args": []
+    }
+  }
+}

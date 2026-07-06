@@ -1,0 +1,26 @@
+{
+  "name": "attemory",
+  "version": "0.1.2",
+  "description": "Attemory integrations for Claude Code.",
+  "owner": {
+    "name": "Attemory contributors"
+  },
+  "plugins": [
+    {
+      "name": "attemory-code",
+      "source": "./plugins/attemory-code",
+      "description": "Repo-aware semantic code search through the attemory-mcp search tool and the atcode CLI.",
+      "category": "development",
+      "tags": [
+        "semantic-search",
+        "code-search",
+        "memory",
+        "retrieval",
+        "mcp"
+      ],
+      "homepage": "https://github.com/AttemorySystem/Attemory",
+      "repository": "https://github.com/AttemorySystem/attemory-claude-code",
+      "license": "MIT"
+    }
+  ]
+}

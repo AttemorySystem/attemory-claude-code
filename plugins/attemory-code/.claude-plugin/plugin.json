@@ -1,0 +1,21 @@
+{
+  "name": "attemory-code",
+  "version": "0.1.2",
+  "description": "Semantic code search for Claude Code using Attemory repo indexes.",
+  "author": {
+    "name": "Attemory contributors"
+  },
+  "homepage": "https://github.com/AttemorySystem/Attemory",
+  "repository": "https://github.com/AttemorySystem/attemory-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "semantic-search",
+    "code-search",
+    "memory",
+    "retrieval",
+    "mcp",
+    "claude-code"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
